@@ -1,0 +1,8 @@
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\obj\x86\Debug\ChatApp.Properties.Resources.resources
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\obj\x86\Debug\ChatApp.csproj.GenerateResource.Cache
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\obj\x86\Debug\ChatApp.exe
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\obj\x86\Debug\ChatApp.pdb
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\obj\x86\Debug\ChatApp.csprojResolveAssemblyReference.cache
+Z:\Serial-Port-Chat-App\Projektmappe Nico\ChatApp\ChatApp\obj\x86\Debug\ChatApp.Form1.resources

@@ -14,18 +14,19 @@ class CSerialPortCOM
     private string tmpData = "";
     private string status = "Nicht Verbunden!";
     private string modus = "none";
-
-    public CSerialPortCOM()
+    bool handshake;
+    public CSerialPortCOM(bool handshake)
     {
         getData = new Thread(GetData);
         port.BaudRate = 9600;
         port.DataBits = 8;
         port.Parity = Parity.None;
         port.StopBits = StopBits.One;
+        this.handshake = handshake;
         //port.ReadTimeout = 500;
         //port.WriteTimeout = 500;
     }
-    public bool Connect(bool handshake)
+    public bool Connect()
     {
         try
         {
